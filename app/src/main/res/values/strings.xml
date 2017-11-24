@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Mock Login</string>
+    <string name="submit">SUBMIT</string>
+    <string name="password">Password :</string>
+    <string name="dob">DOB :</string>
+    <string name="gender">Gender :</string>
+    <string name="last_name">Last Name :</string>
+    <string name="first_name">First Name :</string>
+    <string name="simple_form">SIMPLE FORM</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="enter_your_first_name">enter your first name</string>
+    <string name="enter_your_last_name">enter your last name</string>
+    <string name="male_female_other">male/female/other</string>
+    <string name="val1" formatted="false">First Name : %1$s</string>
+    <string name="val2" formatted="false">Last Name : %1$s</string>
+    <string name="val3" formatted="false">Gender : %1$s</string>
+    <string name ="val4" formatted="false">DOB : %1$s</string>
+    <string name="the_user_details_are_as_follws">The user details are as follows:</string>
+    <string name="fill_another_form">Fill Another FORM!!</string>
+    <string name="key_fname">fname</string>
+    <string name="key_lname">lname</string>
+    <string name="key_gender">gender</string>
+    <string name="key_dob">dob</string>
+    <string name="shreyas">Shreyas</string>
+</resources>
